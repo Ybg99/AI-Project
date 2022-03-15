@@ -1,0 +1,4 @@
+Aim:  
+In today's world, most of the music applications we use recommend songs to us that we listen to more often, regardless of our mood. Listening to music that matches their mood might lift their spirits and help them feel more at ease. So, our aim is to create an AI model that can recommend music to people based on their emotions.
+Proposal:  
+To achieve our aim, we use computer vision and deep learning to detect emotion from the user’s face.  After detecting the emotion, we will pass that emotion to another deep learning model which recommends songs according to the emotion. 
